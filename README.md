@@ -5,4 +5,4 @@
 </p>
 
 ```kotlin
-fun main() { println("Hello world") }
+
