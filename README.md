@@ -1,7 +1,8 @@
 # Привет, мир! 👋
 
 <p align="center">
-  <img src="https://tenor.com/vg7qNMjZo9V.gif" alt="Мой баннер" width="100%" />
+  <img src="https://tenor.com/vg7qNMjZo9V.gif" alt="Моя гифка" width="100%" />
 </p>
 
 ```kotlin
+fun main() { println("Hello world") }
