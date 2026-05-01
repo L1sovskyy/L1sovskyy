@@ -28,3 +28,24 @@
 ```python
 def hello_world():
     print("Привет, мир!")
+
+using System;
+
+class Program {
+    static void Main() {
+        Console.WriteLine("Привет, мир!");
+    }
+}
+
+from django.http import HttpResponse
+
+def index(request):
+    return HttpResponse("Привет, мир из Django!")
+
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Привет, мир!")
+}
