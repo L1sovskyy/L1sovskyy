@@ -25,12 +25,3 @@
 ```python
 def hello_world():
     print("Привет, мир!")```
-
-### 🐍 C#
-using System;
-
-class Program {
-    static void Main() {
-        Console.WriteLine("Привет, мир!");
-    }
-}
