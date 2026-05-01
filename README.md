@@ -3,26 +3,25 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/L1sovskyy/L1sovskyy/main/cc-code-geass.gif" alt="Моя гифка" width="100%" />
 </p>
+
+---
+
+## О себе ℹ️
+
+Меня зовут Егор, я программист из России. Программирую около года, люблю плюшевые игрушки и видеоигрушки :3
+
+---
+
+## Навыки и технологии 🛠️
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+</p>
+
 ### 🐍 Python
 ```python
 def hello_world():
     print("Привет, мир!")
-    using System;
-
-class Program {
-    static void Main() {
-        Console.WriteLine("Привет, мир!");
-    }
-}
-
-```markdown
-<p align="center">
-  <img src="[https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" alt="Python">
-  <img src="[https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)" alt="C#">
-  <img src="[https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)" alt="Django">
-  <img src="[https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)" alt="Go">
-</p>
-
-```kotlin
-
-Меня зовут Егор, я программист из России. Программирую около года, люблю плюшевые игрушки и видеоигрушки :3
