@@ -23,6 +23,23 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 <br>
+### 🦋 C#
+```C#
+```using System;
+
+class Program {
+    static void Main() {
+        Console.WriteLine("Привет, мир!");
+    }
+}```
+
+
+
+
+
+
+
+
 
 ### 🐍 Python
 ```python
