@@ -1,16 +1,32 @@
-## Hi there 👋
+# Привет, мир! 👋
 
-<!--
-**L1sovskyy/L1sovskyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://example.com/your-image.jpg" alt="Мой баннер" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+```kotlin
+fun main() { println("Hello world") }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+def hello_world():
+    print("Привет, мир!")
+
+using System;
+
+class Program {
+    static void Main() {
+        Console.WriteLine("Привет, мир!");
+    }
+}
+
+from django.http import HttpResponse
+
+def index(request):
+    return HttpResponse("Привет, мир из Django!")
+
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Привет, мир!")
+}
