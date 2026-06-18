@@ -1,7 +1,7 @@
 # Привет подглядываешь тут? 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/L1sovskyy/L1sovskyy/main/cc-code-geass.gif" alt="Моя гифка" width="100%" />
+  <img src="https://github.com/L1sovskyy/L1sovskyy/blob/main/cc2.jpg" alt="Моя гифка" width="100%" />
 </p>
 
 ---
