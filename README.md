@@ -1,30 +1,74 @@
-# Привет подглядываешь тут? 👋
+# Привет, подглядываешь тут? 👋
 
 <p align="center">
-  <img src="https://github.com/L1sovskyy/L1sovskyy/blob/main/2b.gif" alt="Моя гифка" width="100%" />
+  <img src="https://github.com/L1sovskyy/L1sovskyy/blob/main/2b.gif" alt="Приветственная анимация" width="100%">
+</p>
+
+<h2 align="center">Егор — Backend-разработчик из России 🇷🇺</h2>
+
+<p align="center">
+  Создаю приложения, ботов и веб-сервисы.<br>
+  Люблю видеоигры, программирование и плюшевые игрушки :3
 </p>
 
 ---
 
-## О себе ℹ️
+## Обо мне ℹ️
 
-Меня зовут Егор, я программист из России. Программирую около 2 лет, люблю плюшевые игрушки и видеоигрушки :3
+- 💻 Программирую около двух лет
+- 🐍 Основной язык — Python
+- 🤖 Разрабатываю ботов для Discord и Telegram
+- 🌐 Изучаю backend-разработку и современные технологии
+- 🎮 В свободное время играю в видеоигры
+- 🚀 Постоянно учусь и создаю новые проекты
 
 ---
 
-## Навыки и технологии 🛠️
+## Языки и технологии 🛠️
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,kotlin,django,go,cs&perline=7" alt="Языки и технологии">
 </p>
-<br>
 
-### 🐍 Python
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+</p>
+
+### Инструменты и платформы
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postgres,discord,bots" alt="Инструменты">
+</p>
+
+---
+
+## Немного кода 🐍
+
 ```python
-def hello_world():
-    print("Привет, мир!")
+class Developer:
+    def __init__(self):
+        self.name = "Егор"
+        self.username = "L1sovskyy"
+        self.languages = [
+            "JavaScript",
+            "TypeScript",
+            "Python",
+            "Kotlin",
+            "Go",
+            "C#",
+        ]
+        self.frameworks = ["Django"]
+        self.interests = ["Discord-боты", "Telegram-боты", "Видеоигры"]
+
+    def say_hello(self):
+        return "Спасибо, что заглянул в мой профиль! 👋"
+
+
+me = Developer()
+print(me.say_hello())
