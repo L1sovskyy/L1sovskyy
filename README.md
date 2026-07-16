@@ -48,8 +48,6 @@
 
 ---
 
----
-
 ## Статистика GitHub 📊
 
 <p align="center">
