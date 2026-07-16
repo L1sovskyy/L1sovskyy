@@ -22,7 +22,7 @@
 - 🎮 В свободное время играю в видеоигры
 - 🚀 Постоянно учусь и создаю новые проекты
 
----
+
 
 ## Языки и технологии 🛠️
 
@@ -47,31 +47,6 @@
 </p>
 
 ---
-
-## Немного кода 🐍
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Егор"
-        self.username = "L1sovskyy"
-        self.languages = [
-            "JavaScript",
-            "TypeScript",
-            "Python",
-            "Kotlin",
-            "Go",
-            "C#",
-        ]
-        self.frameworks = ["Django"]
-        self.interests = ["Discord-боты", "Telegram-боты", "Видеоигры"]
-
-    def say_hello(self):
-        return "Спасибо, что заглянул в мой профиль! 👋"
-
-
-me = Developer()
-print(me.say_hello())
 
 ---
 
@@ -106,5 +81,33 @@ print(me.say_hello())
 </p>
 
 <p align="center">
-  <b>Спасибо, что посетил мой профиль! ⭐</b>
+  <b></b>
 </p>
+
+---
+
+## Немного кода 🐍
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Егор"
+        self.username = "L1sovskyy"
+        self.languages = [
+            "JavaScript",
+            "TypeScript",
+            "Python",
+            "Kotlin",
+            "Go",
+            "C#",
+        ]
+        self.frameworks = ["Django"]
+        self.interests = ["Discord-боты", "Telegram-боты", "Видеоигры"]
+
+    def say_hello(self):
+        return "Спасибо, что заглянул в мой профиль! 👋"
+
+
+me = Developer()
+print(me.say_hello())
+
