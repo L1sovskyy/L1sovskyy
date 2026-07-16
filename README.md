@@ -72,3 +72,39 @@ class Developer:
 
 me = Developer()
 print(me.say_hello())
+
+---
+
+## Статистика GitHub 📊
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=L1sovskyy&show_icons=true&theme=tokyonight&hide_border=true&locale=ru">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1sovskyy&layout=compact&theme=tokyonight&hide_border=true">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1sovskyy&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+## Связаться со мной 📫
+
+<p align="center">
+  <a href="https://t.me/Lisovskypredbot">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/411761057787281428">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=L1sovskyy&style=for-the-badge&color=7F52FF">
+</p>
+
+<p align="center">
+  <b>Спасибо, что посетил мой профиль! ⭐</b>
+</p>
